@@ -16,13 +16,13 @@
 
 ##*Tools & Technologies Used*: 
 
-*Java*: Used for implementing networking and multithreading.
+1.*Java*: Used for implementing networking and multithreading.
 
-*VS Code*:  Used to write and save the Java programs.
+2.*VS Code*:  Used to write and save the Java programs.
 
-*Command Prompt (CMD)*: Used to compile and run the server and client programs.
+3.*Command Prompt (CMD)*: Used to compile and run the server and client programs.
 
-*Sockets (java.net package)*: Used for network communication.
+4.*Sockets (java.net package)*: Used for network communication.
 
 ##*Commands Used*:
 
